@@ -3,6 +3,8 @@
 #git log
 #git branch
 #git rm --cached dosyadi.txt
+#gitignore en basta oluşturmayı unutursan "git rm -rf --cached ."
+yazıp tekrar commit yapman gerekir
 
 # django da notlar
 
