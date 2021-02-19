@@ -1,4 +1,4 @@
-# django_projects
+# git notlar
 #git reset --hard
 #git log
 #git branch
@@ -6,7 +6,7 @@
 #gitignore en basta oluşturmayı unutursan "git rm -rf --cached ."
 yazıp tekrar commit yapman gerekir
 
-# django da notlar
+# django  notlar
 
 ->projeyi startproject ile oluşturduktan sonra,runserver ile ayağa kaldırırsan; auth, admin session gibi migrationsların
 uygulanmadıgını django söyler,bunlar bazı applerdir,django tarafından belli bir taban yapıdır aslında.
@@ -18,4 +18,8 @@ ile ayaga kaldırabilirsin
 --> models veritabanı işlemleri, views urllerin üreteceği cevabın bulanacagı kısımlar, bunlar app oluşunca otomatik gelir, admin.py gibi..
 
 
+# models yapısı
 
+--> models demek veritabanı demek, App içerisindeki models.py silindi onun yerine models klasörunde db tabloları oluşturuldu.
+-->INSTALLED_APPS e app eklenerek  uygulamayı djangonun algılaması saglanır.
+--> category,Author,article bizim blog sayfamızda bulunan tablolarımız
