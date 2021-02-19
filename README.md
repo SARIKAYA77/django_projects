@@ -12,5 +12,8 @@ uygulanmadıgını django söyler,bunlar bazı applerdir,django tarafından bell
 ->sonrasında migrate komutu ile tüm bu applerin db tablolarını oluşturursun.Her sey OK ise artık sorun yoktur,superuser oluşturup django yu runserver
 ile ayaga kaldırabilirsin
 
+-->startapp ile uygulamanı oluşturursun,git e göndermek istemediğin dosyaları (örneğin pycache) belirtmen gerekir,
+--> models veritabanı işlemleri, views urllerin üreteceği cevabın bulanacagı kısımlar, bunlar app oluşunca otomatik gelir, admin.py gibi..
+
 
 
