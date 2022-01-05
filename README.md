@@ -1,3 +1,5 @@
+Bu repo django ile geliştirme asamalarını not ederek örnek uygulamalar barındırmak için yapılmıstır
+
 # git notlar
 #git reset --hard
 #git log
