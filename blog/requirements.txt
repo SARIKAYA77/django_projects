@@ -1,0 +1,8 @@
+#django-admin startproject app_name .
+#python manage.py runserver
+#python manage.py migrate
+#python manage.py createsuperuser
+#url-> view->model->template
+#python manage.py startapp app_name
+#pip install django 
+#virtualenv venv - source venv/bin/activate
